@@ -2,11 +2,11 @@ function mostrarMensaje(){
     alert('Cerrando sesión!');
 }
 
-function fondo Verde(elemento){
+function fondoVerde(elemento){
     elemento.target.classList.add('extra');
 }
 
-function quitar FondoVerde(elemento){
+function quitarFondoVerde(elemento){
     elemento.target.classList.remove('extra');
 }
 
